@@ -1,0 +1,2 @@
+# Mobile_Rappi
+Configure un emulador android con la versión 9.0 del sistema operativo, luego utilizando los patrones de automatización POM o ScreenPlay y JAVA como lenguaje base, automatice la validación del funcionamiento de las 4 operaciones básicas dentro de la calculadora (suma, resta, multiplicación y división), al finalizar suba el código a un repositorio remoto (se recomienda github o bitbucket) y agregue la url como respuesta
